@@ -1,0 +1,8 @@
+label[class="form-label"] {
+    font-weight: bold;
+}
+
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+}
