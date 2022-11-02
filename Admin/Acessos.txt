@@ -1,15 +1,13 @@
-188.451.991-18
-clubpet.7939
-Banhista
+### Login do Funcionário ###
 
-----------------------
+CPF: 188.451.991-18
+Senha: clubpet.7939
+Cargo: Banhista
 
-549.653.561-10
-clubpet.2707
-Tosador
+--------------------------------
 
------------------------
+### Login do Administrador ###
 
-428.127.951-23
-clubpet.1829
-Administrador
+CPF: 428.127.951-23
+Senha: clubpet.1829
+Cargo: Administrador
